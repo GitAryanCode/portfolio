@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <title>Aryan Grover</title>
   <link rel="stylesheet" href="css/master.css">
-  <link rel="icon" href="favicon.ico">
+  <link rel="icon" href="images/save_aryan.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&family=Poppins:ital,wght@1,300&family=Sacramento&display=swap" rel="stylesheet">
@@ -31,7 +31,7 @@
       <div class="skill-row">
         <img class="Skill1" src="images/computer.png" alt="WebDev">
         <h3>Web Devolopment</h3>
-        <h4>I started on Web Development in 2022 beacause my brother needed a website for his startup and his book, since then I thought I was doning web development for him but now that I am deep into it, it feels like I am doing it for myself, beacause I loved making functional websites.</h4>
+        <h4>I started on Web Development in 2022 beacause my brother needed a website for his startup and his book, since then I thought I was doing web development for him but now that I am deep into it, it feels like I am doing it for myself, beacause I loved making functional websites.</h4>
       </div>
       <div class="skill-row">
         <img class="Skill2" src="images/python.png" alt="python-image">
