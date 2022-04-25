@@ -42,7 +42,7 @@
     <hr>
     <div class="contact-me">
       <h2>Get In Touch</h2>
-      <a class="btn" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=krishnagrover1000@gmail.com" target="_blank">Contact Me</a>
+      <a class="btn" href="mailto:krishnagrover1000@gmail.com" target="_blank">Contact Me</a>
     </div>
   </div>
 
