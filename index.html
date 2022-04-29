@@ -9,6 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&family=Poppins:ital,wght@1,300&family=Sacramento&display=swap" rel="stylesheet">
+  <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 </head>
 
 <body class="whitep">
@@ -41,16 +42,16 @@
     </div>
     <hr>
     <div class="contact-me">
-      <h2>Get In Touch</h2>
+      <h2 class="g-in-t">Get In Touch</h2>
       <a class="btn" href="mailto:krishnagrover1000@gmail.com" target="_blank">Contact Me</a>
     </div>
   </div>
 
 
   <div class="bottom-container">
-    <a class="footer-link" href="https://www.linkedin.com/in/aryan-grover-7603591ba/" target="_blank">LinkedIn</a>
-    <a class="footer-link" href="https://twitter.com/AryanGrover20" target="_blank">Twitter</a>
-    <a class="footer-link" href="https://gitaryancode.pythonanywhere.com/" target="_blank">Website</a>
+    <a class="footer-link" href="https://www.linkedin.com/in/aryan-grover-7603591ba/" target="_blank"> <i class="icon foot-icon fab fa-linkedin-in fa-1x"></i></a>
+    <a class="footer-link" href="https://twitter.com/AryanGrover20" target="_blank"> <i class="icon foot-icon fab fa-twitter fa-1x"></i></a>
+    <a class="footer-link" href="https://gitaryancode.pythonanywhere.com/" target="_blank"> <i class="icon foot-icon fa fa-globe fa-1x"></i></a>
     <p class="copyright">© 2022 Aryan Grover</p>
   </div>
 </body>
